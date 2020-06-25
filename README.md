@@ -2,7 +2,7 @@
 In this project i have applied the K-means clustering algorithm which is an unsupervised learning algorithm using scikit-learn and Python 3.7 to build an image compression application with interactive GUI.
 
 # APPROACH
-The script uses K-Means, a Machine Learning clustering algorithm, to cluster all the colors in an image into 16 clusters and replace the RGB value of every pixel with the RGB value of their respective cluster center and thus reducing the amount of memory required to save a picture.
+I used K-Means, a Machine Learning clustering algorithm, to cluster all the colors in an image into 16 clusters and replace the RGB value of every pixel with the RGB value of their respective cluster center and thus reducing the amount of memory required to save a picture.
 
 # Python Libraries Required
 *	Pillow – It is an image processing library.
