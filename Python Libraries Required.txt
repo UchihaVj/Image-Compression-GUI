@@ -1,0 +1,9 @@
+Pip Commands to install below Python Libraries:
+
+Numpy:	pip install numpy
+
+Pillow:	pip install Pillow
+
+OpenCv:	pip install opencv-python
+
+scikit-learn:	pip install scikit-learn
